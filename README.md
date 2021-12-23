@@ -1,1 +1,1 @@
-# python_videoconverter
+# Video converter using ffmpeg
